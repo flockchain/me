@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @felix_Blockchainer
+- 👋 Hi, I’m @felix_blockchainer
 - 👀 I’m interested in Blockchain and Web3.0
 - 🌱 I’m currently learning Solidity, Node.js, React, Kotlin
 - 💞️ I’m looking to collaborate on everthing that has to do with Web3.0
