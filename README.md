@@ -4,12 +4,12 @@
 
 - 🌱 I’m currently working with...
 
-        - C++ in Core-Chain Development
-        - Solidity in Smart-Contract Development
-        - Swift in iOS-App-Development (SwiftUI and ARKit)
-        - Next.js in Web-Development
-        - The Moralis Framework for Web3-Applications
-        - Enterprise Architect to modelling complex code-structures
+    - C++ in Core-Chain Development
+    - Solidity in Smart-Contract Development
+    - Swift in iOS-App-Development (SwiftUI and ARKit)
+    - Next.js in Web-Development
+    - The Moralis Framework for Web3-Applications
+    - Enterprise Architect to modelling complex code-structures
         
 - 💞️ I’m looking to collaborate on everthing that has to do with Web3.0
 
