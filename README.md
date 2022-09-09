@@ -3,7 +3,6 @@
 - 👀 I’m interested in Blockchain and Web3.0
 
 - 🌱 I’m currently working with...
-
     - C++ in Core-Chain Development
     - Solidity in Smart-Contract Development
     - Swift in iOS-App-Development (SwiftUI and ARKit)
